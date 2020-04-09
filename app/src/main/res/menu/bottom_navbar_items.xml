@@ -1,0 +1,16 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/action_home"
+    android:title="Home"
+    android:icon="@drawable/ic_home"/>
+
+<item android:id="@+id/action_add"
+    android:title="Add"
+    android:icon="@drawable/ic_add"/>
+
+<item android:id="@+id/action_categories"
+    android:title="Categories"
+    android:icon="@drawable/ic_categories"/>
+
+</menu>

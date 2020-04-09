@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tasku TODO</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="chooseCategorySpinner">
+        <item>Default</item>
+    </string-array>
+    <string name="chooseCategoryPrompt">Choose Category</string>
+</resources>
+
